@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!-- Copyright (C) 2020 The Dirty Unicorns Project
+     Copyright (C) 2020 The LibreMobileOS Foundation
 
      Licensed under the Apache License, Version 2.0 (the "License");
      you may not use this file except in compliance with the License.
@@ -15,28 +16,28 @@
 -->
 <PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android">
 
-    <com.dirtyunicorns.tweaks.preferences.CategoryPreference
+    <com.libremobileos.lmodroidlab.preferences.CategoryPreference
         android:key="battery_options_category"
         android:icon="@drawable/dt_battery_options"
         android:title="@string/battery_options_title"
         android:summary="@string/battery_options_summary"
-        android:fragment="com.dirtyunicorns.tweaks.fragments.statusbar.BatteryOptions" />
+        android:fragment="com.libremobileos.lmodroidlab.fragments.statusbar.BatteryOptions" />
 
-    <com.dirtyunicorns.tweaks.preferences.CategoryPreference
+    <com.libremobileos.lmodroidlab.preferences.CategoryPreference
         android:key="carrier_label_category"
         android:icon="@drawable/dt_carrier_label"
         android:title="@string/carrier_label_title"
         android:summary="@string/carrier_label_summary"
-        android:fragment="com.dirtyunicorns.tweaks.fragments.statusbar.CarrierLabel" />
+        android:fragment="com.libremobileos.lmodroidlab.fragments.statusbar.CarrierLabel" />
 
-    <com.dirtyunicorns.tweaks.preferences.CategoryPreference
+    <com.libremobileos.lmodroidlab.preferences.CategoryPreference
         android:key="clock_options_category"
         android:icon="@drawable/dt_clock_options"
         android:title="@string/clock_options_title"
         android:summary="@string/clock_options_summary"
-        android:fragment="com.dirtyunicorns.tweaks.fragments.statusbar.ClockOptions" />
+        android:fragment="com.libremobileos.lmodroidlab.fragments.statusbar.ClockOptions" />
 
-    <com.dirtyunicorns.tweaks.preferences.CategoryPreference
+    <com.libremobileos.lmodroidlab.preferences.CategoryPreference
         android:key="icon_manager_title"
         android:icon="@drawable/dt_icon_manager"
         android:title="@string/icon_manager_title"
@@ -44,20 +45,20 @@
         <intent android:action="android.intent.action.MAIN"
             android:targetPackage="com.android.systemui"
             android:targetClass="com.android.systemui.tuner.TunerActivity" />
-    </com.dirtyunicorns.tweaks.preferences.CategoryPreference>
+    </com.libremobileos.lmodroidlab.preferences.CategoryPreference>
 
-    <com.dirtyunicorns.tweaks.preferences.CategoryPreference
+    <com.libremobileos.lmodroidlab.preferences.CategoryPreference
         android:key="quick_settings_category"
         android:icon="@drawable/dt_quicksettings"
         android:title="@string/quicksettings_title"
         android:summary="@string/quicksettings_summary"
-        android:fragment="com.dirtyunicorns.tweaks.fragments.statusbar.QuickSettings" />
+        android:fragment="com.libremobileos.lmodroidlab.fragments.statusbar.QuickSettings" />
 
-    <com.dirtyunicorns.tweaks.preferences.CategoryPreference
+    <com.libremobileos.lmodroidlab.preferences.CategoryPreference
         android:key="traffic_category"
         android:icon="@drawable/dt_traffic"
         android:title="@string/traffic_title"
         android:summary="@string/traffic_summary"
-        android:fragment="com.dirtyunicorns.tweaks.fragments.statusbar.TrafficIndicators" />
+        android:fragment="com.libremobileos.lmodroidlab.fragments.statusbar.TrafficIndicators" />
 
 </PreferenceScreen>

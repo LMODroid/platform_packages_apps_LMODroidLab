@@ -18,7 +18,7 @@
     android:width="80dp"
     android:viewportWidth="24"
     android:viewportHeight="24"
-    android:tint="@color/dirty_tweaks_category_icon_tint">
+    android:tint="@color/lmodroid_lab_category_icon_tint">
 
     <path
         android:fillColor="#fff"

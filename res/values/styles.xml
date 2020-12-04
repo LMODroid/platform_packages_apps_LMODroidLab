@@ -26,7 +26,7 @@
     </style>
 
     <style name="ExpandableBottomBar">
-        <item name="exb_backgroundColor">@color/dirty_tweaks_navbar_color</item>
+        <item name="exb_backgroundColor">@color/lmodroid_lab_navbar_color</item>
         <item name="exb_backgroundCornerRadius">0dp</item>
         <item name="exb_itemInactiveColor">#000</item>
         <item name="exb_itemBackgroundCornerRadius">30dp</item>

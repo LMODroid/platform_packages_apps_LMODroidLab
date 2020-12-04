@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Copyright (C) 2020 The LibreMobileOS Foundation
+
+     Licensed under the Apache License, Version 2.0 (the "License");
+     you may not use this file except in compliance with the License.
+     You may obtain a copy of the License at
+
+          http://www.apache.org/licenses/LICENSE-2.0
+
+     Unless required by applicable law or agreed to in writing, software
+     distributed under the License is distributed on an "AS IS" BASIS,
+     WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+     See the License for the specific language governing permissions and
+     limitations under the License.
+-->
+<vector xmlns:android="http://schemas.android.com/apk/res/android" xmlns:aapt="http://schemas.android.com/aapt"
+    android:viewportWidth="24"
+    android:viewportHeight="24"
+    android:width="24dp"
+    android:height="24dp"
+    android:tint="?android:attr/colorPrimary">
+    <path
+        android:pathData="M0.6521988 17.5277L6.7093415 7.1489423"
+        android:strokeColor="?android:attr/colorPrimary"
+        android:strokeWidth="0.9999999"
+        android:strokeLineCap="round"
+        android:strokeLineJoin="bevel"
+        android:strokeMiterLimit="4.2" />
+    <path
+        android:pathData="M12.97583 17.418383L6.7311991 7.1489423"
+        android:strokeColor="?android:attr/colorPrimary"
+        android:strokeWidth="0.9999999"
+        android:strokeLineCap="round"
+        android:strokeLineJoin="bevel"
+        android:strokeMiterLimit="4.2" />
+    <path
+        android:pathData="M6.2177409 17.437198L0.6375463 17.542195"
+        android:strokeColor="?android:attr/colorPrimary"
+        android:strokeWidth="0.9999999"
+        android:strokeLineCap="round"
+        android:strokeLineJoin="bevel"
+        android:strokeMiterLimit="4.2" />
+    <path
+        android:pathData="M23.517109 18.840643L4.7375072 18.914353"
+        android:strokeColor="?android:attr/colorPrimary"
+        android:strokeWidth="0.9999999"
+        android:strokeLineCap="round"
+        android:strokeLineJoin="bevel"
+        android:strokeMiterLimit="4.2" />
+    <path
+        android:pathData="M15.132522 4.023533l8.421007 14.814126"
+        android:strokeColor="?android:attr/colorPrimary"
+        android:strokeWidth="0.9999999"
+        android:strokeLineCap="round"
+        android:strokeLineJoin="bevel"
+        android:strokeMiterLimit="4.2" />
+    <path
+        android:pathData="M15.102949 3.9661871L10.084512 10.376311"
+        android:strokeColor="?android:attr/colorPrimary"
+        android:strokeWidth="0.9999999"
+        android:strokeLineCap="round"
+        android:strokeLineJoin="bevel"
+        android:strokeMiterLimit="4.2" />
+    <path
+        android:pathData="M11.115116 12.120446L14.835203 7.1464064"
+        android:strokeColor="?android:attr/colorPrimary"
+        android:strokeWidth="0.9999999"
+        android:strokeLineCap="round"
+        android:strokeLineJoin="bevel"
+        android:strokeMiterLimit="4.2" />
+    <path
+        android:pathData="M20.551308 17.329128L14.866563 7.1370157"
+        android:strokeColor="?android:attr/colorPrimary"
+        android:strokeWidth="0.9999999"
+        android:strokeLineCap="round"
+        android:strokeLineJoin="bevel"
+        android:strokeMiterLimit="4.2" />
+    <path
+        android:pathData="M20.515133 17.347618l-6.082996 0.09072"
+        android:strokeColor="?android:attr/colorPrimary"
+        android:strokeWidth="0.9999999"
+        android:strokeLineCap="round"
+        android:strokeLineJoin="bevel"
+        android:strokeMiterLimit="4.2" />
+</vector>

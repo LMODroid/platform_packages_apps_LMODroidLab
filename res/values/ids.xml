@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!-- Copyright (C) 2020 The Dirty Unicorns Project
+     Copyright (C) 2020 The LibreMobileOS Foundation
 
      Licensed under the Apache License, Version 2.0 (the "License");
      you may not use this file except in compliance with the License.
@@ -15,7 +16,7 @@
 -->
 <resources>
 
-    <!-- Dirty Tweaks -->
+    <!-- LMODroid Laboratory -->
     <item name="system" type="id" />
     <item name="statusbar" type="id" />
     <item name="navigation" type="id" />

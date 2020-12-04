@@ -83,7 +83,7 @@
 
         </RelativeLayout>
 
-        <com.dirtyunicorns.support.helpers.CircularImageView
+        <com.libremobileos.support.helpers.CircularImageView
             android:id="@+id/devImage"
             android:layout_width="60dp"
             android:layout_height="60dp"

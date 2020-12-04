@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!-- Copyright (C) 2017-2019 The Dirty Unicorns Project
+     Copyright (C) 2020 The LibreMobileOS Foundation
 
      Licensed under the Apache License, Version 2.0 (the "License");
      you may not use this file except in compliance with the License.
@@ -14,9 +15,8 @@
      limitations under the License.
 -->
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
-    <!-- Dirty Tweaks -->
-    <string name="dirtytweaks_title">Dirty Tweaks</string>
-    <string name="dirtytweaks_summary">Améliorez votre expérience</string>
+    <!-- LMODroid Laboratory -->
+    <string name="lmodroidlab_title">LMODroid Laboratory</string>
     <!-- The Team -->
     <string name="dialog_team_title">L\'équipe</string>
     <string name="developer_title">Développeur</string>

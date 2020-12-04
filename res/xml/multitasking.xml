@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!-- Copyright (C) 2020 The Dirty Unicorns Project
+     Copyright (C) 2020 The LibreMobileOS Foundation
 
      Licensed under the Apache License, Version 2.0 (the "License");
      you may not use this file except in compliance with the License.
@@ -15,12 +16,12 @@
 -->
 <PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android">
 
-    <com.dirtyunicorns.tweaks.preferences.CategoryPreference
+    <com.libremobileos.lmodroidlab.preferences.CategoryPreference
         android:key="active_edge_category"
         android:icon="@drawable/dt_active_edge"
         android:title="@string/active_edge_title"
         android:summary="@string/active_edge_summary"
-        android:fragment="com.dirtyunicorns.tweaks.fragments.multitasking.ActiveEdge" />
+        android:fragment="com.libremobileos.lmodroidlab.fragments.multitasking.ActiveEdge" />
 
     <com.google.android.settings.aware.AwareSettingsDialogPreference
         android:key="aware_settings"

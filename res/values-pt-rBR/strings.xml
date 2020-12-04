@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!-- Copyright (C) 2020 The Dirty Unicorns Project
+     Copyright (C) 2020 The LibreMobileOS Foundation
 
      Licensed under the Apache License, Version 2.0 (the "License");
      you may not use this file except in compliance with the License.
@@ -14,9 +15,6 @@
      limitations under the License.
 -->
 <resources>
-    <!-- Dirty Tweaks -->
-    <string name="dirtytweaks_title">Configurações Dirty</string>
-    <string name="dirtytweaks_summary">Melhore a sua experiência</string>
     <!-- The Team -->
     <string name="dialog_team_title">A equipe</string>
     <string name="developer_title">Desenvolvedor</string>

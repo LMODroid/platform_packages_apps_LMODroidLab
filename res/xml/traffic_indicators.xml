@@ -17,12 +17,12 @@
             xmlns:settings="http://schemas.android.com/apk/res/com.android.settings"
             android:title="@string/traffic_title" >
 
-     <com.dirtyunicorns.support.preferences.SystemSettingSwitchPreference
+     <com.libremobileos.support.preferences.SystemSettingSwitchPreference
          android:key="network_traffic_state"
          android:title="@string/network_traffic_state_title"
          android:defaultValue="false" />
 
-     <com.dirtyunicorns.support.preferences.CustomSeekBarPreference
+     <com.libremobileos.support.preferences.CustomSeekBarPreference
          android:key="network_traffic_autohide_threshold"
          android:title="@string/network_traffic_autohide_threshold_title"
          android:dependency="network_traffic_state"
