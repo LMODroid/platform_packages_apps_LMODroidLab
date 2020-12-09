@@ -16,7 +16,7 @@
 -->
 <resources>
     <!-- LMODroid Laboratory -->
-    <string name="lmodroidlab_title">LMODroid Laboratory</string>
+    <string name="lmodroidlab_title">Laboratory</string>
     <!-- The Team -->
     <string name="dialog_team_title">El equipo</string>
     <string name="developer_title">Desarollador</string>

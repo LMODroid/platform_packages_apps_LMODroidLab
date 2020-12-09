@@ -16,7 +16,7 @@
 -->
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
     <!-- LMODroid Laboratory -->
-    <string name="lmodroidlab_title">LMODroid Laboratory</string>
+    <string name="lmodroidlab_title">Laboratory</string>
     <!-- The Team -->
     <string name="dialog_team_title">L\'équipe</string>
     <string name="developer_title">Développeur</string>
