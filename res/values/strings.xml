@@ -64,7 +64,7 @@
 
     <!-- Navigation -->
     <string name="buttons_title">Buttons</string>
-    <string name="buttons_summary">Configure volume rocker options</string>
+    <string name="buttons_summary">Configure buttons options</string>
     <string name="navigation_options_title">Navigation</string>
     <string name="navigation_options_summary">Configure navigation options</string>
 
